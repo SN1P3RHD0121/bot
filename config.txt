@@ -1,0 +1,6 @@
+owner=354450508276170752
+prefix=!
+game=hdbot
+stayinchannel=true
+songinstatus=false
+token=NTY3NDA0Mjc3NjQ4MDY0NTIz.XLTCrg.-q3jOJQ53Y8r31fPHaz4_zKm1Hw
